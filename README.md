@@ -23,20 +23,6 @@ and **Isolation Forest** (anomaly detection) with a real-time Streamlit UI.
 
 ---
 
-## Quick Start
-
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Run the dashboard
-streamlit run app.py
-```
-
-Then open **http://localhost:8501** in your browser.
-
----
-
 ## Using Your Own Dataset
 
 Upload any CSV with:
